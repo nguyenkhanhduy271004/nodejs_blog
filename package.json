@@ -1,0 +1,36 @@
+{
+  "name": "blog",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "supervisor --inspect index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nguyenkhanhduy271004/nodejs_blog.git"
+  },
+  "keywords": [
+    "duy",
+    "blog",
+    "duy",
+    "blog",
+    "node",
+    "js",
+    "nodejs"
+  ],
+  "author": "nguyenduy",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nguyenkhanhduy271004/nodejs_blog/issues"
+  },
+  "homepage": "https://github.com/nguyenkhanhduy271004/nodejs_blog#readme",
+  "devDependencies": {
+    "nodemon": "^3.1.0"
+  },
+  "dependencies": {
+    "express": "^4.18.3",
+    "supervisor": "^0.12.0"
+  }
+}
