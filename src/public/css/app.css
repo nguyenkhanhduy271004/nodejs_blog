@@ -1,0 +1,29 @@
+h1 {
+  font-size: 1.3rem;
+  color: red;
+  font-style: bold; }
+
+.navbar-light .navbar-brand,
+.navbar-light .navbar-nav .nav-link {
+  color: #fff; }
+
+.card-course-item {
+  margin-top: 16px; }
+
+.card-img-top {
+  transition: transform 0.3s ease-in-out; }
+
+.card-img-top:hover {
+  transform: scale(1.2); }
+
+.avatar-user {
+  width: 28px;
+  height: 28px;
+  border-radius: 50%;
+  margin-right: 4px;
+  object-fit: cover; }
+
+.dropdown-item:hover {
+  background-color: #ccc;
+  width: auto;
+  height: auto; }
